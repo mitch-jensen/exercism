@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2debca45_002D7df9_002D412a_002D8699_002Db628aaab6a42/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ValentinesDayTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::33366984-8E65-579B-191A-B6DC9EBE1D8D::net7.0::ValentinesDayTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B29DBDCC-A0FF-0834-0B3E-EAF5A2EEC5D6::net7.0::CarsAssembleTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C2DD9BEA-8B17-EED1-F1AF-DECB2DAD4401::net7.0::InterestIsInterestingTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5C0BAA52-BA9F-AA7A-9AE8-2C5B42C0C89F::net7.0::LogLevelsTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::28E8E44C-7BFC-5F3F-741D-5B84FF916367::net7.0::SpaceAgeTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C7973905-E8FA-394B-BA50-6D05A944C455::net7.0::TwoFerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B9E1AF32-E911-C7AB-6D11-021C3C618871::net7.0::LeapTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::AF20CAF1-D8C5-9786-5F97-7EEBD5D86355::net7.0::ReverseStringTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
